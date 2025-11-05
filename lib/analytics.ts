@@ -5,14 +5,21 @@
 export type AnalyticsEvent =
   | {
       event: "calc_performed";
-      country: string;
-      rate: number;
-      mode: string;
-      amount: number;
+      tool_name?: string;
+      input_type?: string;
+      country?: string;
+      rate?: number;
+      mode?: string;
+      amount?: number;
     }
   | {
       event: "copy_result";
       field: string;
+    }
+  | {
+      event: "tool_switch";
+      from_tool: string;
+      to_tool: string;
     }
   | {
       event: "cta_click";

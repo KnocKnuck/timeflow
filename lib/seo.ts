@@ -17,9 +17,9 @@ export interface SEOConfig {
 }
 
 export const DEFAULT_SEO: SEOConfig = {
-  title: "TaxFlow - Free VAT Calculator for EU & UK | Instant Tax Calculation",
+  title: "TaxFlow - Free Online Calculators | VAT, Percentage, Age, Date, Currency",
   description:
-    "Calculate VAT instantly for any EU country. Add or remove VAT with our free online calculator. Supports all EU VAT rates for 2025. Perfect for businesses and freelancers.",
+    "Professional calculators for business and finance. VAT, percentage, age, date difference, and currency converter. Free, accurate, instant results. Built for professionals.",
   ogImage: "/og-image.png",
   ogType: "website",
 };
@@ -28,19 +28,19 @@ export const SITE_CONFIG = {
   name: "TaxFlow",
   url: "https://taxflow.com",
   description:
-    "Professional VAT calculator for businesses and freelancers across Europe. Calculate VAT instantly with support for all EU countries.",
+    "Professional online calculators for business and finance. VAT, percentage, age, date, and currency tools built for professionals and freelancers.",
   author: "TaxFlow Team",
   keywords: [
+    "calculator",
+    "online calculator",
     "VAT calculator",
-    "TVA calculator",
-    "calculate VAT",
-    "remove VAT",
-    "VAT France",
-    "VAT Germany",
-    "VAT UK",
+    "percentage calculator",
+    "age calculator",
+    "date calculator",
+    "currency converter",
+    "business calculator",
+    "finance calculator",
     "tax calculator",
-    "EU VAT rates",
-    "reverse charge VAT",
   ],
 };
 
