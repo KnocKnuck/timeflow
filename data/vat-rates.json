@@ -1,0 +1,221 @@
+{
+  "countries": [
+    {
+      "countryCode": "FR",
+      "countryName": "France",
+      "standardRate": 20.0,
+      "reducedRates": [10.0, 5.5, 2.1],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "DE",
+      "countryName": "Germany",
+      "standardRate": 19.0,
+      "reducedRates": [7.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "GB",
+      "countryName": "United Kingdom",
+      "standardRate": 20.0,
+      "reducedRates": [5.0, 0.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "ES",
+      "countryName": "Spain",
+      "standardRate": 21.0,
+      "reducedRates": [10.0, 4.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "IT",
+      "countryName": "Italy",
+      "standardRate": 22.0,
+      "reducedRates": [10.0, 5.0, 4.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "NL",
+      "countryName": "Netherlands",
+      "standardRate": 21.0,
+      "reducedRates": [9.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "BE",
+      "countryName": "Belgium",
+      "standardRate": 21.0,
+      "reducedRates": [12.0, 6.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "AT",
+      "countryName": "Austria",
+      "standardRate": 20.0,
+      "reducedRates": [13.0, 10.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "PT",
+      "countryName": "Portugal",
+      "standardRate": 23.0,
+      "reducedRates": [13.0, 6.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "GR",
+      "countryName": "Greece",
+      "standardRate": 24.0,
+      "reducedRates": [13.0, 6.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "PL",
+      "countryName": "Poland",
+      "standardRate": 23.0,
+      "reducedRates": [8.0, 5.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "SE",
+      "countryName": "Sweden",
+      "standardRate": 25.0,
+      "reducedRates": [12.0, 6.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "DK",
+      "countryName": "Denmark",
+      "standardRate": 25.0,
+      "reducedRates": [],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "FI",
+      "countryName": "Finland",
+      "standardRate": 25.5,
+      "reducedRates": [14.0, 10.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "IE",
+      "countryName": "Ireland",
+      "standardRate": 23.0,
+      "reducedRates": [13.5, 9.0, 4.8],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "CZ",
+      "countryName": "Czech Republic",
+      "standardRate": 21.0,
+      "reducedRates": [12.0, 10.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "RO",
+      "countryName": "Romania",
+      "standardRate": 19.0,
+      "reducedRates": [9.0, 5.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "HU",
+      "countryName": "Hungary",
+      "standardRate": 27.0,
+      "reducedRates": [18.0, 5.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "BG",
+      "countryName": "Bulgaria",
+      "standardRate": 20.0,
+      "reducedRates": [9.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "HR",
+      "countryName": "Croatia",
+      "standardRate": 25.0,
+      "reducedRates": [13.0, 5.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "SK",
+      "countryName": "Slovakia",
+      "standardRate": 20.0,
+      "reducedRates": [10.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "SI",
+      "countryName": "Slovenia",
+      "standardRate": 22.0,
+      "reducedRates": [9.5, 5.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "LT",
+      "countryName": "Lithuania",
+      "standardRate": 21.0,
+      "reducedRates": [9.0, 5.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "LV",
+      "countryName": "Latvia",
+      "standardRate": 21.0,
+      "reducedRates": [12.0, 5.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "EE",
+      "countryName": "Estonia",
+      "standardRate": 22.0,
+      "reducedRates": [9.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "LU",
+      "countryName": "Luxembourg",
+      "standardRate": 17.0,
+      "reducedRates": [14.0, 8.0, 3.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "MT",
+      "countryName": "Malta",
+      "standardRate": 18.0,
+      "reducedRates": [7.0, 5.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "CY",
+      "countryName": "Cyprus",
+      "standardRate": 19.0,
+      "reducedRates": [9.0, 5.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "CH",
+      "countryName": "Switzerland",
+      "standardRate": 8.1,
+      "reducedRates": [3.8, 2.6],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "NO",
+      "countryName": "Norway",
+      "standardRate": 25.0,
+      "reducedRates": [15.0, 12.0],
+      "lastUpdated": "2025-01-01"
+    },
+    {
+      "countryCode": "OTHER",
+      "countryName": "Other / Custom",
+      "standardRate": 20.0,
+      "reducedRates": [10.0, 5.0],
+      "lastUpdated": "2025-01-01"
+    }
+  ]
+}
